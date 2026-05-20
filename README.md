@@ -130,9 +130,9 @@ print("The correct codeword is : " +
 <img width="520" height="671" alt="Screenshot 2026-05-20 090952" src="https://github.com/user-attachments/assets/94ebcf9a-9972-49ce-9031-d088dd897edf" />
 
 ## Calculation:
-<img width="1000" height="700" alt="WhatsApp Image 2026-05-20 at 9 19 13 AM" src="https://github.com/user-attachments/assets/2ba7b993-8fba-48b2-98b0-1625dffca10e" />
-<img width="981" height="700" alt="WhatsApp Image 2026-05-20 at 9 19 44 AM" src="https://github.com/user-attachments/assets/74ebea3a-7e4c-42d7-aabc-b4d3b566525e" />
-<img width="1520" height="887" alt="WhatsApp Image 2026-05-20 at 9 15 41 AM" src="https://github.com/user-attachments/assets/17a963ce-b667-40f1-bd18-63789eb30322" />
+<img width="1000" height="1000" alt="WhatsApp Image 2026-05-20 at 9 19 13 AM" src="https://github.com/user-attachments/assets/2ba7b993-8fba-48b2-98b0-1625dffca10e" />
+<img width="981" height="1000" alt="WhatsApp Image 2026-05-20 at 9 19 44 AM" src="https://github.com/user-attachments/assets/74ebea3a-7e4c-42d7-aabc-b4d3b566525e" />
+<img width="1520" height="1000" alt="WhatsApp Image 2026-05-20 at 9 15 41 AM" src="https://github.com/user-attachments/assets/17a963ce-b667-40f1-bd18-63789eb30322" />
 
 
 
